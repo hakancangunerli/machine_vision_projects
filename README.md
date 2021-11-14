@@ -6,7 +6,7 @@
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
 [![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)]()
 [![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)]()
-[![OpenCV](https://shields.io/badge/face_recognition-darkblue?style=for-the-badge&)]()
+[![Face_recognition](https://shields.io/badge/face_recognition-darkblue?style=for-the-badge&)]()
 
 
 
