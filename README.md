@@ -1,3 +1,6 @@
+
+![](https://cdn-media-1.freecodecamp.org/images/1*bt-E2YcPafjiPbZFDMMmNQ.jpeg)
+
 # computer_vision_projects
 
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)]()
@@ -6,9 +9,6 @@
 [![OpenCV](https://shields.io/badge/face_recognition-darkblue?style=for-the-badge&)]()
 
 
-
-
-![](https://cdn-media-1.freecodecamp.org/images/1*bt-E2YcPafjiPbZFDMMmNQ.jpeg)
 
 I love computer vision, i think it's fun and cool to do, so I try to make small sample projects for myself to keep in here.
 
